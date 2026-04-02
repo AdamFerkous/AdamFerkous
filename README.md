@@ -77,13 +77,4 @@ I focus on building **end-to-end data projects**, from data cleaning to analysis
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamFerkous&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamFerkous&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center"><em>Feel free to explore my projects and reach out!</em></p>
